@@ -1,4 +1,4 @@
-# Disabel Screenshot in Flutter
+# Disable Screenshot in Flutter
 
 Sample of - [flutter_windowmanager](https://pub.dev/packages/flutter_windowmanager)
 
