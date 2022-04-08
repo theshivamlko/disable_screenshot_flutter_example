@@ -2,6 +2,8 @@
 
 Sample of - [flutter_windowmanager](https://pub.dev/packages/flutter_windowmanager)
 
+Blog - [Navoki.com](https://navoki.com/disable-screenshot-and-recording-in-flutter-app?utm_source=github&utm_medium=repository&utm_content=+disable_screenshot_flutter_example)
+
 <img height="400" src="https://github.com/theshivamlko/disable_screenshot_flutter_example/blob/master/img/disable_screenshot_in_flutter.gif" alt="how to disable screenshot and recording in flutter app"> 
  
 
